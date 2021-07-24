@@ -12,7 +12,7 @@
 
 추천 시스템 세미나 velog 주소: https://velog.io/@tobigs-recsys
 
-| 주차 | 주제 | 리뷰 |
+| 주차 | 강의 주제 | 기록 |
 | :--- | :--- | :--- |
 | Week1 | [Factorization meets the neighborhood: a multifaceted collaborative filtering model](https://velog.io/@tobigs-recsys/Paper-Review-KDD-2008-Factorization-meets-the-neighborhood-a-multifaceted-collaborative-filtering-model) | [리뷰](https://github.com/SeongBeomLEE/Recommender-System-Code-Implement/blob/main/Reviews/(2008%2C%20KDD)%20Factorization%20meets%20the%20neighborhood%2C%20a%20multifaceted%20collaborative%20filtering%20model.pdf) |
 | Week2 | [Deep Learning based Recommender Systems](https://velog.io/@tobigs-recsys/DL-based-Recommender-Systems-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B8%B0%EB%B0%98-%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C) | [강의](https://github.com/SeongBeomLEE/Recommender-System-Code-Implement/blob/main/Reviews/Week2_DL-based_Recommender_Systems.pdf), [코드](https://github.com/SeongBeomLEE/Tobigs_Recommendation_System_Seminar/blob/main/Week2_Recommendation_Seminar_Code.ipynb) |
