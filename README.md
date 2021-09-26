@@ -32,4 +32,4 @@
 | Week8 | [Conversational Recommender System](https://velog.io/@tobigs-recsys/Survey-Conversational-Recommender-System) | [리뷰](https://github.com/SeongBeomLEE/Recommender-System-Code-Implement/blob/main/Reviews/Conversational%20Recommender%20System.pdf) |
 | Week8 | [Time to Shop for Valentine's Day: Shopping Occasions and Sequential Recommendation in E-commerce](https://velog.io/@tobigs-recsys/Paper-ReviewTime-to-Shop-for-Valentines-Day-Shopping-Occasions-and-Sequential-Recommendation-in-E-commerce) | [리뷰](https://github.com/SeongBeomLEE/Recommender-System-Code-Implement/blob/main/Reviews/(2020%2C%20ACM)%20Time%20to%20Shop%20for%20Valentine's%20Day%2C%20Shopping%20Occasions%20and%20Sequential%20Recommendation%20in%20E-commerce.pdf) |
 | Week9 | [Long-tail Session-based Recommendation](https://velog.io/@tobigs-recsys/Paper-Review-2020-Recsys-Long-tail-Session-based-Recommendation) | [리뷰](https://github.com/SeongBeomLEE/Recommender-System-Code-Implement/blob/main/Reviews/(2020%2C%20Recsys)%20Long-tail%20Session-based%20Recommendation.pdf) |
-| Week10 | 실무자 인터뷰 진행 | |
+| Week10 | 선배님 강의 진행 | |
